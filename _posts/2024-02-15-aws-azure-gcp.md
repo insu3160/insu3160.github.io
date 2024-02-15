@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "aws, azure, gcp 장단점 비교"
+title:  "Aws, Azure, Gcp 장단점 비교"
 ---
 
 <img src="../images/2024-02-15-aws-azure-gcp/aws azure gcp.jpg" alt="aws azure gcp" style="zoom:150%;" />
