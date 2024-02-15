@@ -3,6 +3,8 @@ layout: single
 title:  "aws, azure, gcp 장단점 비교"
 ---
 
+<img src="../images/2024-02-15-aws-azure-gcp/aws azure gcp.jpg" alt="aws azure gcp" style="zoom:150%;" />
+
 # Cloud Service란?
 
  CSP(Cloud Service Provider)를 비교하기 전 클라우드 서비스가 무엇인지부터 간단하게 소개하겠습니다.
@@ -21,7 +23,7 @@ title:  "aws, azure, gcp 장단점 비교"
 
 ## AWS (Amazon Web Services)
 
->aws는 아마존이 제공해 주는 서비스로, 현재 세계에서 가장 많이 사용되고 있는 클라우드 서비스입니다.
+>Aws는 아마존이 제공해 주는 서비스로, 현재 세계에서 가장 많이 사용되고 있는 클라우드 서비스입니다.
 >
 >서버 환경 구축, DB 활용, IoT에 이르기까지 100 가지가 넘는 다양한 서비스를 제공해 주고 있습니다. 커스터 마이징이 용이하여 이에 대한 기술을 보유한 직원이 있는 조직에게 적절할 수 있습니다.
 >
