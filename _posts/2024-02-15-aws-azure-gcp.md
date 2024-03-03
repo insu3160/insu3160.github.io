@@ -6,7 +6,7 @@ categories:
   - Server
 ---
 
-<img src="../images/2024-02-15-aws-azure-gcp/aws azure gcp.jpg" alt="aws azure gcp" style="zoom:150%;" />
+<img src="../../images/2024-02-15-aws-azure-gcp/aws azure gcp.jpg" alt="aws azure gcp" style="zoom:150%;" />
 
 # Cloud Service란?
 
