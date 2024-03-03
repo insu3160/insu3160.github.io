@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "KIM INSU"
-  avatar           : "개인 공부 블로그입니다.:relaxed::fire:"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Republic of Korea."
   location         : "South Korea"
   email            : 
