@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "KIM INSU"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Republic of Korea."
-  location         : "South Korea"
+  bio              : "개인 기술 블로그입니다."
+  location         : "Republic of Korea."
   email            : 
   links:
     - label: "Mail"
