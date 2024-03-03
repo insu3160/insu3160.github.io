@@ -2,13 +2,6 @@
 main:
   - title: "Algorithm"
     url: /categories/Algorithm/
-    - title: "Server"
+  - title: "Server"
     url: /categories/Server/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+ 
