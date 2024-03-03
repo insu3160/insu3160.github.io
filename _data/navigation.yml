@@ -2,6 +2,8 @@
 main:
   - title: "Algorithm"
     url: /categories/Algorithm/
+    - title: "Server"
+    url: /categories/Server/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
