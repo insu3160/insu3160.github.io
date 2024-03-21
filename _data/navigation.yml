@@ -4,4 +4,6 @@ main:
     url: /categories/Algorithm/
   - title: "Server"
     url: /categories/Server/
+  - title: "Java"
+    url: /categories/Java/
  
