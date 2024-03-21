@@ -2,6 +2,9 @@
 layout: "single"
 title:  "Aws, Azure, Gcp 장단점 비교"
 excerpt : "클라우드 컴퓨팅"
+toc : true
+toc_label : "목차"
+toc_sticky : true
 
 categories:
   - Server
