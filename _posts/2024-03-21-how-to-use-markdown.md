@@ -7,7 +7,7 @@ toc_label : "목차"
 toc_sticky : true
 
 categories:
-  - ..Etc
+  - Etc
 ---
 # 마크다운(Markdown) 그게 뭔데?
 

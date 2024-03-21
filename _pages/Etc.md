@@ -1,7 +1,7 @@
 ---
 title: "기타 포스팅"
-permalink: /categories/..Etc/
+permalink: /categories/Etc/
 layout: category
 author_profile: true
-taxonomy: ..Etc
+taxonomy: Etc
 ---
