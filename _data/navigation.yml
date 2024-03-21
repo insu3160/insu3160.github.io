@@ -6,4 +6,6 @@ main:
     url: /categories/Server/
   - title: "Java"
     url: /categories/Java/
+  - title: "..Etc"
+    url: /categories/..Etc/  
  
